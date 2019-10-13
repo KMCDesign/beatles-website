@@ -1,0 +1,28 @@
+h1 {
+  text-shadow: 2px 2px red;
+  color: #36CFFF;
+}
+#rc1 {
+  border-radius: 50px;
+  background: yellow;
+  width: 400px;
+  height: 250px;
+  padding: 20px;
+}
+.rc2 {
+  border-radius: 25px;
+  border: 2px solid #8AC007;
+  padding: 20px;
+  width: 400px;
+  height: 250px;
+  # background: url(./bg.jpg);
+  background: -webkit-linear-gradient(pink,green);
+  background: -o-linear-gradient(pink,green);
+  background: -moz-linear-gradient(pink,green);
+  background: linear-gradient(pink,green);
+}
+.sh1 {
+  box-shadow: 5px 10px violet;
+  #font-family: courier, garamond, serif;
+  #font-weight: 700;
+}
